@@ -4,7 +4,8 @@
 This project delves into an in-depth analysis of restaurant data, uncovering insights about top areas, cuisine preferences, online bookings, table reservations, rating distribution, restaurant types, and more. By meticulously examining these aspects, the project aims to provide valuable insights for both restaurant owners and diners, enabling informed decisions and an enhanced dining experience.
 # Introduction:
 In an era of diverse dining options, understanding restaurant trends and user preferences is crucial for both customers and restaurateurs. This project analyzes a comprehensive restaurant dataset to uncover patterns, preferences, and tendencies in the culinary landscape.
-# Top 10 Restaurant Areas:
+# Project Objectives
+Top 10 Restaurant Areas:
 Byresandra, Tavarekere, and Madiwala emerge as the top three areas with the highest concentration of restaurants, indicating the popularity of these locations among food enthusiasts.
 # Preferred Cuisine Types:
 North Indian and Chinese cuisines take the lead, signifying the widespread appeal of these flavors in the dining scene.
