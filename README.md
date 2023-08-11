@@ -9,27 +9,21 @@ In an era of diverse dining options, understanding restaurant trends and user pr
       Byresandra, Tavarekere, and Madiwala emerge as the top three areas with the highest concentration of restaurants, indicating the popularity of these locations among food enthusiasts.
 
    2. Preferred Cuisine Types:
-
       North Indian and Chinese cuisines take the lead, signifying the widespread appeal of these flavors in the dining scene.
 
    3. Online Booking Insights:
-
       Approximately 52.5% of diners opt for online bookings, indicating the growing convenience and preference for digital reservation methods.
 
    4. Table Booking Patterns:
-
       Surprisingly, a significant 89.5% of patrons do not pre-book tables, suggesting a potential area for improvement in restaurant operations and customer experience.
 
    5. Rating Distribution Analysis:
-
       Ratings predominantly fall within the range of 3.5 to 4.0, highlighting a generally positive sentiment among diners.
 
    6. Average Cost Analysis:
-
       The scatter plot of the average cost for two people provides an insightful overview of the cost distribution across different restaurants.
 
    7. Types of Restaurants:
-
       Quick Bites account for 51.4% of the restaurant types, followed by Casual Dining at 29.4%. The remaining establishments include Takeaway, Delivery, and Cafes.
 
 # Conclusion:
