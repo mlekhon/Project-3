@@ -1,5 +1,4 @@
-# Project-3
-# Restaurant Trends and User Preferences: A Comprehensive Analysis
+Restaurant Trends and User Preferences: A Comprehensive Analysis.
 # Abstract:
 This project delves into an in-depth analysis of restaurant data, uncovering insights about top areas, cuisine preferences, online bookings, table reservations, rating distribution, restaurant types, and more. By meticulously examining these aspects, the project aims to provide valuable insights for both restaurant owners and diners, enabling informed decisions and an enhanced dining experience.
 # Introduction:
